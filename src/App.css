@@ -1,0 +1,17 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.cas{
+  display: flex;
+  justify-content: center;
+}
+.all{
+  width: 50%;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+}
+.m{
+  margin: 10px;
+}
